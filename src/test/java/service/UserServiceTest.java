@@ -25,8 +25,8 @@ public class UserServiceTest {
 	@BeforeEach
 	public void init() {
 		userService = new UserServiceImpl();
-		firstName = "Antoni";
-		lastName = "Kurniawan";
+		firstName = "Dewabrata";
+		lastName = "Dewa";
 		email = "antoni@gmail.com";
 		password = "rahasia";
 		repeatPassword = "rahasia";
